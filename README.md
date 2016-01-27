@@ -1,5 +1,6 @@
 # MailBuilder
 
+<<<<<<< HEAD
 MailBuilder is a template-based HTML creation tool specially created to make the arduous task of coding HTML emails a little easier. By leveraging the power of the Handlebars.js template framework, you can create MailBuilder-compatible email templates and let MailBuilder do the heavy lifting of putting all the pieces together. Instead of relying on WYSIWYGs which can be tedious to use and cause your code to get messy, even non-technical users can create 100% correct code every time with MailBuilder.
 
 ## Installation
@@ -14,3 +15,12 @@ Learn how to [create your own templates](https://github.com/peteranglea/MailBuil
 
 ## About MailBuilder
 As an in-house email developer (among many other things), I wanted a tool to help me expedite the process of coding the many emails that came across my desk every day from clients across my organization. Better yet, I wanted a tool that would allow non-technical users to create emails on their own. Unfortunately, no existing bulk mail service had a tool that worked reliably. Many relied on WYSIWYGs which tended to muddy the code and create cross-client-compatibility problems. Thus, the idea for MailBuilder was born. You can read more about the research and thought process that went into this tool in my presentation, [Demystifying Responsive Email](http://www.peteranglea.com/presentations/demystifying-responsive-email/), originally presented at HighEdWeb 2015 in Milwaukee, WI.
+=======
+Coming very soon... a custom web app for rapid and pain-free responsive email creation. It's the un-WYSIWYG.
+
+Created with Handlebars.js and a lot of love, MailBuilder will allow you to create your own email template components and string together on the fly without worrying about a WYSIWYG messing up your precious code. Non-technical users will be able to crank out amazing responsive emails in no time flat.
+
+Watch this repo for updates coming soon.
+
+For more information and a presentation I recently gave about responsive email, see [Demystifying Responsive Email](http://www.peteranglea.com/presentations/demystifying-responsive-email/).
+>>>>>>> 2cb7bc9e94002a058f578f4da80a5c059e3bac7f
