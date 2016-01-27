@@ -5,3 +5,4 @@ _site/
 config.php
 node_modules
 templates/
+js/build/*
