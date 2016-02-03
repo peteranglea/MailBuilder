@@ -6,6 +6,7 @@
   "dependencies": {
     "foundation-sites": "^6.1.1",
     "handlebars": "^4.0.5",
+    "jquery": "^2.2.0",
     "jquery-sortable": "^0.9.13",
     "markdown": "^0.5.0"
   },

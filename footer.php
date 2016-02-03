@@ -1,7 +1,6 @@
 
 
 	<script src="node_modules/jquery/dist/jquery.js"></script>
-    <script src="node_modules/what-input/what-input.js"></script>
     <script src="node_modules/foundation-sites/dist/foundation.min.js"></script>
     <script src="node_modules/foundation-sites/js/foundation.core.js"></script>
     <script src="node_modules/foundation-sites/js/foundation.reveal.js"></script>
