@@ -30,7 +30,7 @@ if (isset($_GET['email_name']) && isset($_GET['folder']) && is_numeric($_GET['fo
 	$dbh->execute(array($_GET['email_name'], $_GET['folder'], $template, $content));
 
 	// retrieve latest
-	$query = "SELECT id FROM emails ORDER BY date_added DESC LIMIT 1";
+	$query = "SELECT id FROM emails ORDER BY id DESC LIMIT 1";
 	$id = $pdo->query($query)->fetchColumn();
 
 	// update with hash
